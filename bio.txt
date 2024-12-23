@@ -1,41 +1,52 @@
-About Vicky:
-Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+About Ayush:
+
+Ayush is a passionate AI and Data Science enthusiast with hands-on expertise in building machine learning models, working with computer vision, and fine-tuning advanced NLP frameworks. With a degree in IT specializing in AI & ML from Guru Gobind Singh Indraprastha University (2024), Ayush excels in combining innovation with technical expertise to develop impactful solutions in the field of artificial intelligence.
 
 Work Experience:
-Data Scientist at IBM (2015-2019); Software Developer at IBM (2010-2015)
+	Trainee - AIML at DRDO (2024): Enhanced high-level vision tasks by optimizing CNN architectures, achieving a 2% accuracy improvement using complex-valued CNNs.
+	Front-End Web Development Intern at CogniTensor (2023): Delivered a 20% reduction in CSS codebase and enhanced UI/UX through advanced frameworks like TypeScript, Sass, and Redux Toolkit.
 
 Career Goal:
-Vicky's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
 
-Skills: 
-AI, Data Science, Blockchain, Cloud, Python
+Ayush aims to leverage deep learning and NLP expertise to build cutting-edge AI solutions that positively impact industries and society while continuously growing within a dynamic, innovation-driven environment.
 
-Certification:
-IBM Applied AI Professional Certificate (2023)
+Skills:
+
+AI, Data Science, NLP, Computer Vision, Python, TensorFlow, PyTorch, React.js, SQL
+
+Certifications:
+	None
+	
 
 Achievements:
-Spearheaded AI projects at IBM, resulting in a 30% increase in user engagement.
-Utilized IBM's watsonx service to help over 1000 companies from various domains automate their HR processes, from hiring to onboarding, contributing to a 100% positive feedback rate from companies.
+	Improved visual emotion detection models for Orator-AI, boosting accuracy from 53% to 63%.
+	Fine-tuned transformers like BERT and RoBERTa for The Dark Pattern Agent, enabling highly accurate dark pattern detection on websites.
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/vicky-tck
-Phone: 123-456-789
-Location: Toronto, Ontario
+	LinkedIn: Ayush’s LinkedIn is https://www.linkedin.com/in/ayush-kumar-3a83b2215/
+	GitHub: Ayush’s GitHub is https://github.com/Ayushkumar71
+	Location: Delhi, India
 
 Strengths and Advantages:
-Vicky's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+
+Ayush’s strengths lie in a strong foundation in AI/ML concepts, excellent problem-solving skills, and a drive for continuous learning and innovation. His focus on blending technical expertise with real-world applications ensures impactful results.
 
 Weaknesses and Disadvantages:
-Vicky's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+
+Ayush’s perfectionist approach may lead to spending extra time fine-tuning details, but this ensures the delivery of robust, high-quality solutions.
 
 Interests and Hobbies:
-Vicky's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
+
+Ayush enjoys diving into generative AI research and exploring its applications in real-world scenarios. Outside work, he values fitness, indulging in swimming, and relishing moments spent with family and friends over coffee.
 
 Portfolio:
-Explore Vicky's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Vicky's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
+
+Explore Ayush’s innovative AI projects like The Dark Pattern Agent and Orator-AI on GitHub, showcasing practical applications of generative AI and cutting-edge solutions for real-world challenges.
 
 Availability:
-Vicky is actively seeking new opportunities and is ready to start immediately.
+
+Ayush is eager to explore new opportunities in AI and Data Science and is ready to start immediately.
 
 References:
-References are available upon request.
+
+Available upon request.

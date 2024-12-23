@@ -1,4 +1,4 @@
-/* Change the sidebar color*/
+/* Change the sidebar color - below is not in use right now */
 [data-testid=stSidebar] {
   background-image: linear-gradient(#000395,#FFD4DD);
 }

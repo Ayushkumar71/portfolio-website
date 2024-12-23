@@ -1,59 +1,120 @@
-
 {
-    "title": {
-        "media": {
+  "title": {
+      "media": {
           "url": "",
-          "caption": " <a target=\"_blank\" href=''>credits</a>",
+          "caption": "",
           "credit": ""
-        },
-        "text": {
-          "headline": "Welcome to<br>Streamlit Timeline",
-          "text": "<p>A Streamlit Timeline component by integrating TimelineJS from Knightlab</p>"
-        }
-    },
-    "events": [
-      {
-        "media": {
-          "url": "https://vimeo.com/143407878",
-          "caption": "How to Use TimelineJS (<a target=\"_blank\" href='https://timeline.knightlab.com/'>credits</a>)"
-        },
-        "start_date": {
-          "year": "2016",
-          "month":"1"
-        },
-        "text": {
-          "headline": "TimelineJS<br>Easy-to-make, beautiful timelines.",
-          "text": "<p>TimelineJS is a populair tool from Knightlab. It has been used by more than 250,000 people to tell stories seen hundreds of millions of times, and is available in more than sixty languages. </p>"
-        }
       },
-      {
-        "media": {
-          "url": "https://www.youtube.com/watch?v=CmSKVW1v0xM",
-          "caption": "Streamlit Components (<a target=\"_blank\" href='https://streamlit.io/'>credits</a>)"
-        },
-        "start_date": {
-          "year": "2020",
-          "month":"7",
-          "day":"13"
-        },
-        "text": {
-          "headline": "Streamlit Components<br>version 0.63.0",
-          "text": "Streamlit lets you turn data scripts into sharable web apps in minutes, not weeks. It's all Python, open-source, and free! And once you've created an app you can use our free sharing platform to deploy, manage, and share your app with the world."
-        }
-      },
-      {
-        "media": {
-          "url": "https://github.com/innerdoc/streamlit-timeline/raw/main/component-logo.png",
-          "caption": "github/innerdoc (<a target=\"_blank\" href='https://www.github.com/innerdoc/'>credits</a>)"
-        },
-        "start_date": {
-          "year": "2021",
-          "month":"2"
-        },
-        "text": {
-          "headline": "Streamlit TimelineJS component",
-          "text": "Started with a demo on https://www.innerdoc.com/nlp-timeline/ . <br>Then made a <a href='https://github.com/innerdoc/streamlit-timeline'>Streamlit component</a> of it. <br>Then made a <a href='https://pypi.org/project/streamlit-timeline/'>PyPi package</a> for it."
-        }
+      "text": {
+          "headline": "Ayush's Career Timeline",
+          "text": "<p>A timeline showcasing Ayush's professional journey, technical expertise, and project highlights.</p>"
       }
-    ]
+  },
+  "events": [
+      {
+          "media": {
+              "url": "",
+              "caption": "",
+              "credit": ""
+          },
+          "start_date": {
+              "year": "2023",
+              "month": "7",
+              "day": "1"
+          },
+          "end_date": {
+              "year": "2023",
+              "month": "9",
+              "day": "30"
+          },
+          "text": {
+              "headline": "Web Development Intern<br>CogniTensor",
+              "text": "<p>Implemented front-end solutions using ReactJS, leveraging React Router DOM for enhanced navigation and experimenting with UI animations using Framer Motion. Proficiency in TypeScript and SASS led to a 20% reduction in CSS codebase.</p>"
+          }
+      },
+      {
+          "media": {
+              "url": "",
+              "caption": "",
+              "credit": ""
+          },
+          "start_date": {
+              "year": "2024",
+              "month": "7",
+              "day": "1"
+          },
+          "end_date": {
+              "year": "2024",
+              "month": "9",
+              "day": "30"
+          },
+          "text": {
+              "headline": "Trainee-AIML<br>DRDO",
+              "text": "<p>Conducted a comparative study on real-valued and complex CNNs, demonstrating a 2% accuracy improvement for complex CNNs. Cited 10 research papers and delivered a comprehensive report with benchmarks and visualizations.</p>"
+          }
+      },
+      {
+          "media": {
+              "url": "",
+              "caption": "",
+              "credit": ""
+          },
+          "start_date": {
+              "year": "2023",
+              "month": "10",
+              "day": "1"
+          },
+          "end_date": {
+              "year": "2023",
+              "month": "12",
+              "day": "31"
+          },
+          "text": {
+              "headline": "Project<br>Dark Pattern Agent",
+              "text": "<p>Developed a dark pattern detection model using puppeteer.js and JavaScript APIs for web scraping. Fine-tuned advanced LLMs (BERT, RoBERTa) for high-accuracy detection and provided an intuitive interface for end-users.</p>"
+          }
+      },
+      {
+          "media": {
+              "url": "",
+              "caption": "",
+              "credit": ""
+          },
+          "start_date": {
+              "year": "2024",
+              "month": "1",
+              "day": "1"
+          },
+          "end_date": {
+              "year": "2024",
+              "month": "3",
+              "day": "31"
+          },
+          "text": {
+              "headline": "Project<br>Orator-AI",
+              "text": "<p>Improved CNN model accuracy from 53% to 63% with architecture refinement and data augmentation. Integrated audio analysis for speech and filler words, correlating emotions with timepoints in videos for deeper insights.</p>"
+          }
+      },
+      {
+          "media": {
+              "url": "",
+              "caption": "",
+              "credit": ""
+          },
+          "start_date": {
+              "year": "2024",
+              "month": "4",
+              "day": "1"
+          },
+          "end_date": {
+              "year": "2024",
+              "month": "6",
+              "day": "30"
+          },
+          "text": {
+              "headline": "Project<br>Credit Risk Modeling",
+              "text": "<p>Built a risk assessment model using XGBoost, achieving 81% accuracy after rigorous hyperparameter tuning. Conducted hypothesis testing and multicollinearity checks to optimize feature selection from 50 variables.</p>"
+          }
+      }
+  ]
 }

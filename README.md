@@ -1,27 +1,50 @@
-# Land your dream job: Build your portfolio with Streamlit
-Showcase your coding skills to recruiters with a chatbot tailored to your resume.
+# 🚀 My Portfolio Website: A Step Toward Your Dream Job
+Showcase your coding expertise and achievements with an interactive and customizable portfolio website. This portfolio includes a chatbot tailored to my resume to help recruiters and collaborators learn more about me.
 
-# ❄️[Demo](https://portfolio-template.streamlit.app/?ref=blog.streamlit.io)
+[❄️ Live Demo](https://github.com/Ayushkumar71/portfolio-website/tree/main?tab=readme-ov-file)
 
-![ezgif com-video-to-gif (1)](https://github.com/vicky-playground/portfolio-template/assets/90204593/c60f52a9-7026-43ae-a7f3-89cacc730b2d)
 
-🤖 Feel free to engage with the chatbot! Here are some sample questions to get you started:
-- hi
-- what's her contact?
-- what's her hobby?
-- what's her education background?
-  
+### 🤖 Chatbot Interaction
+Engage with the chatbot to discover more about me! Sample questions you can ask:
 
-# Dive Deeper with a Tutorial 📘
-Have you ever dreamt of having your own portfolio? Let's make that dream a reality together! I've got a super-friendly, step-by-step guide from the Streamlit Blog that’s got all the help you’ll need. Kickstart your adventure right [here](https://blog.streamlit.io/land-your-dream-job-build-your-portfolio-with-streamlit/).
-In this tutorial, you’ll learn how to build a portfolio with:
-- An AI-powered chatbot that includes custom data, such as a self-introduction
-- Animations
-- Career snapshot with a timeline
-- HTML and JavaScript with custom CSS
-- RSS feeds (such as Medium posts)
-- Images and a resume PDF
-- Colleague endorsement slideshow
-- Contact form
+- Hi
+- What's their contact?
+- What are their hobbies?
+- What’s their educational background?
 
-I can’t wait to see the amazing portfolios you’ll create. Once you have, tag me on [my LinkedIn](https://www.linkedin.com/in/vicky-tck/?ref=blog.streamlit.io). I'd love to celebrate your accomplishments and get inspired by your work! 🎉💡
+### ✨ Features
+This portfolio website is built to highlight my skills and projects dynamically, featuring:
+
+### AI-Powered Chatbot:
+A conversational assistant providing insights about me.
+### Animations: 
+Sleek transitions to enhance user experience.
+### Career Snapshot: 
+A timeline that showcases my career milestones and achievements.
+HTML, JavaScript, and Custom CSS: Enhanced aesthetics with responsive design.
+
+### RSS Feeds: 
+Dynamic integration for posts from platforms like Medium.
+
+### Interactive Elements:
+Displaying a downloadable resume in PDF format.
+A colleague endorsement slideshow to highlight collaborations.
+Contact Form: Reach out to me directly through a built-in form.
+
+
+## 🎯 How to Use
+
+### Explore the Portfolio
+Navigate through the various sections to learn about my journey, projects, and skills.
+
+### Chat with the AI Assistant
+Ask relevant questions about my profile to interact with the AI-powered chatbot.
+
+
+## Connect with Me
+Use the contact form to send a message or download my resume for detailed information about my experience.
+
+
+
+I’d love to hear your feedback or see how this inspires your own projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-kumar-3a83b2215/). Let’s collaborate and grow together! 🎉✨
+
